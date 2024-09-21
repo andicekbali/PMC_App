@@ -72,5 +72,5 @@ To get started with either the initial setup or the final version, follow these 
 
 ## Contact
 
-For any inquiries, please contact me in Telegram: [Nikandr Surkov](https://t.me/nikandr_s).
+For any inquiries, please contact me in Telegram: [Andi).
 
